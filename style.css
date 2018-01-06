@@ -1,0 +1,40 @@
+        body{
+            background-color: gray;
+        }
+        #time{
+            text-align: center;
+            font-family: serif;
+            color:white;
+            letter-spacing: 2px;
+            font-size: 100px;
+            text-shadow: 5px 3px 25px white;
+            padding: 5px;
+            border: 2px lightskyblue;
+            border-radius: 30px;
+        }
+
+        #text{
+            text-align: center;
+            color: white;
+            letter-spacing: 3px;
+        }
+
+        #date{
+            color:white;
+            text-align: center;
+            padding: 5px;
+            border:2px lightskyblue;
+            font-family: serif;
+            border-radius: 30px;
+        }
+        #all{
+            padding: 5px;
+            border:5px solid lightskyblue;
+            font-family: serif;
+            border-radius: 30px;
+            width: 500px;
+            height: 166px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 200px;
+        }
